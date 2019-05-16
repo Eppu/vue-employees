@@ -1,7 +1,5 @@
 # vue-app
-```
-Based on Tania Rascia's "Getting started with Vue". https://www.taniarascia.com/getting-started-with-vue/
-```
+Based on Tania Rascia's ["Getting started with Vue"](https://www.taniarascia.com/getting-started-with-vue/).
 
 ## Project setup
 ```
