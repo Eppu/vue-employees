@@ -6,12 +6,12 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+#### Use this for testing
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
-## Use this for testing
 ```
 npm run build
 ```
